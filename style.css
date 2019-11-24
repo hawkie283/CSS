@@ -1,0 +1,59 @@
+.graph {
+	margin: -10px;
+	padding:0px;
+	background-color: #333;
+	
+}
+ul li{
+	list-style: none;
+}
+.m{
+	background-color:green;
+	border: 3px solid green;
+	margin:0;
+	padding: 0px;
+	width:400px;
+}
+.tu{
+	background-color: green;
+	border: 3px solid green;
+	margin:5px 0 10px 0;
+	padding: 0;
+	width: 200px; 
+}
+.we{
+	background-color:green; 
+	border: 3px solid green;
+	margin: 5px 0 0 0;  
+	padding:0px;
+	width: 30px;
+	text-decoration: none;
+}
+.th{
+	background-color: green;
+	border:3px solid green;
+	margin:5px 0 0 0;
+	padding: 0;
+	width:450px;
+}
+.fri{
+	background-color: green;
+	border:3px solid green;
+	margin:5px 0 0 0;
+	padding: 0;
+	width:170px;
+}
+.sat{
+	background-color: green;
+	border: 3px solid green;
+	margin:5px 0 0 0;
+	padding: 0;
+	width:100px;
+}
+.su{
+	background-color: green;
+	border: 3px solid green;
+	margin: 5px 0 0 0;
+	padding: 0;
+	width: 30px;
+}
